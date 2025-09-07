@@ -1,0 +1,58 @@
+[
+  {
+    "status": 403,
+    "url": "http://testphp.vulnweb.com/porn"
+  },
+  {
+    "status": 403,
+    "url": "http://testphp.vulnweb.com/cgi-bin"
+  },
+  {
+    "status": 403,
+    "url": "http://testphp.vulnweb.com/xxx"
+  },
+  {
+    "status": 200,
+    "url": "http://testphp.vulnweb.com/crossdomain.xml"
+  },
+  {
+    "status": 403,
+    "url": "http://testphp.vulnweb.com/cgi-bin/"
+  },
+  {
+    "status": 200,
+    "url": "http://testphp.vulnweb.com/favicon.ico"
+  },
+  {
+    "status": 200,
+    "url": "http://testphp.vulnweb.com/index.php"
+  },
+  {
+    "status": 200,
+    "url": "http://testphp.vulnweb.com/admin"
+  },
+  {
+    "status": 200,
+    "url": "http://testphp.vulnweb.com/admin"
+  },
+  {
+    "status": 200,
+    "url": "http://testphp.vulnweb.com/admin"
+  },
+  {
+    "status": 200,
+    "url": "http://testphp.vulnweb.com/vendor"
+  },
+  {
+    "status": 200,
+    "url": "http://testphp.vulnweb.com/images"
+  },
+  {
+    "status": 200,
+    "url": "http://testphp.vulnweb.com/pictures"
+  },
+  {
+    "status": 200,
+    "url": "http://testphp.vulnweb.com/secured"
+  }
+]
